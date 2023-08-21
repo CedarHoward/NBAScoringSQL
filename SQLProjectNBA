@@ -54,3 +54,7 @@ ORDER BY Year
 63	63	2020
 71	71	2021
 77	77	2022
+
+
+--I reused the first query again but changed the value to >19.5 PTS and > 29.5 PTS so I could analyze the trends of 20+ ppg scores and 30+ ppg scorers. 
+--I then imported this data to Power BI to create a visualization for these trends.
